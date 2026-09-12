@@ -5,3 +5,4 @@
 нейроморфная фотонная система обработки данных 
 открытая архитектура для разработки 
 !TORUS Concept (images/torus-concept.jpg)
+!(Концепт Torus (torus-concept.jpg)
